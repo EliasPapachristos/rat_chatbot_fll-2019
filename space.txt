@@ -1,0 +1,1052 @@
+Space Terms
+If you ever wonder the meaning of an astronomical word, search no further and browse below to find the definition of the space term. The following are terms from A-Z related to space & astronomy:
+
+-A-
+
+Absolute magnitude – also known as absolute visual magnitude, relates to measuring a heavenly object’s brightness when viewed from 10 parsec or 32+ light years.
+
+Absolute zero – The international community agreed to define absolute zero as equivalent to −273.15°C on the Celsius scale or−459.67°F on the Fahrenheit scale. It is the theoretical temperature entropy reaches its minimum value.
+
+Absorption lines are a dark feature in the spectrum of a star formed by cooler gases in a star’s outer layer.
+
+Accretion disks arise when material, usually gases, are transferred from one celestial object to another. There are two places astronomers find accretion disks, binary star systems and galactic nuclei.
+
+Achromatic lens is a combination of lenses made of different glass. These bring two wavelengths into focus (normally red & blue) on the same plane. Achromatic lenses are used to take chromatic aberrations away from images.
+
+Active galactic nuclei is a region in the center of a galaxy that has a higher than normal brightness. It is a class of galaxies that emit a large amount of energy from their center more than ordinary galaxies.
+
+Active optics – Technology developed in the 80’s for reflecting telescopes. The construction enables telescopes to move 8 meter primary mirrors. As the name suggests, it works by “actively” adjusting the telescope mirrors.
+
+Adaptive optics – technology used to improve performance of optical systems through the reduction of rapidly changing optical distortion. It is used to remove atmospheric distortion through the use of astronomical telescopes and laser communication.
+
+Airy disk – Named after George Airy, it is the central spot in a diffraction pattern of a stars image in focus in a telescope.
+
+Albedo is the ratio that light is reflected by a planet or satellite to that received by it. It is the ratio of total-reflected light.
+
+Altazimuth mount is a two-axis mount used to support and rotate an instrument in two common perpendicular axes, vertical (altitude) and horizontal (azimuth).
+
+Altitude is the height of anything above given a planetary reference plane. In astronomy the angular distance of a heavenly body above the horizon.
+
+Anaglyph is a composite picture printed in two colors to produce a 3D image viewed through eye glasses having lenses of the same colors.
+
+Andromeda galaxy is a spiral galaxy that is nearly two and a half million light years away in the constellation Andromeda.
+
+Angular size is the angle between two lines of sight to its two opposite sides. It is a measure of how large an object actually appears to be.
+
+Anisotropy is the state of being directionally dependent. The property of being anisotropic and having a different value when measured in different directions.
+
+Annular eclipse, a solar eclipse in which the moon covers all but the bright ring around the circumference of the sun. When Sun and Moon are exactly in line, because the Moon is smaller, the Sun appears as a bright ring (annulus) surrounding the moon.
+
+Antimatter is matter composed of anti-particles: antiprotons, antineutrons, and positrons. Hypothetically a type of matter identical to physical matter except that the atoms are made of: anti-electrons, anti-protons, and anti-neutrons.
+
+Aperture is a hole, gap, or slit and any other small opening. Diameter of the objective of a telescope.
+
+Aphelion is the point of orbit of a planet or comet which is farthest away from the sun.
+
+Panchromatic – sensitive to light of all colors in the visible spectrum.
+
+Apogee is the point in the orbit of an object (moon, satellite, etc…) orbiting the earth that is at the greatest distance from the center of the earth.
+
+Apparent magnitude is the measure of brightness of a celestial body as seen from Earth as seen without atmosphere.
+
+Apparition is the appearance or time when a comet is visible such as Halley’s Comet.
+
+Archeoastronomy, the study of how people of the past “understand phenomena in the sky and how those phenomena affect their cultures.” Branch of archaeology that deals with use by prehistoric civilizations of astronomical techniques to establish seasons or cycle of the year, as evidenced in megaliths and other ritual structures.
+
+ArcMinute is a unit of angular distance equal to a 60th of a degree.
+
+ArcSecond a 60th part of a minute of an arcminute.
+
+Asterism is a group of starts. Also a pattern of stars seen from earth which is not part of an established constellation.
+
+Asteroids are any of thousands of smaller bodies or planetoids that orbit around the Sun. they range in size from 1.6 miles to 480 miles.
+
+Asteroid belt is the region in space between the orbits of Mars and Jupiter where most asteroids are located.
+
+Astrometry is the branch of astronomy dealing with the measurement of the positions and motions of heavenly bodies.
+
+Astronomical unit (AU) a unit of length which is equal to the mean distance of the earth from the Sun.
+
+Astronomy is the science that deals with the material universe beyond the earth’s atmosphere. Natural science engaged with the study of celestial objects.
+
+Astrophotography a specialized branch of photography that captures images of astronomical objects and large portions of the night sky.
+
+Aurora is a radiant emission from the upper atmosphere that occurs intermittently over the middle and high altitudes of both hemispheres. They appear in the form of luminous bands, streamers, or the like. This is caused by the constant bombardment of the atmosphere by charged particles attracted by earth’s magnetic lines.
+
+Aurora Australis or Southern Lights are dynamic displays of light that appear in the Antarctic Skies in winter. They are nature’s light show. It is the name given to light emitted by atoms, molecules, and ions that have been excited by energetic charged particles. Common colors are pale green and pink in spiral curtains, arcs and streamers.
+
+Aurora Borealis also know as Northern Polar lights are natural occurring light display in the heavens in the Northern hemisphere. They are nature’s light show. It is the name given to light emitted by atoms, molecules, and ions that have been excited by energetic charged particles. Common colors are pale green and pink in spiral curtains, arcs and streamers.
+
+Auto guider is a tool used in astrophotography to track celestial objects that are photographed from drifting away from the field of view.
+
+Autumnal equinox is the time that signals the end of the summer months and the beginning of winter. It is when the Sun passes the equator.
+
+Averted vision – a technique to view faint objects using peripheral vision. You do not look at the object directly, but just off to the side, you do this while concentrating on the object.
+
+Axis is the line which an object rotates. A straight line about which a body or geometric object rotates or may be conceived to rotate.
+
+Azimuth is the arc of the horizon measured clockwise from the south point, in astronomy, or from the north point, in navigation, to the point where a vertical circle through a given heavenly body intersects the horizon.
+
+-B-
+
+Barlow lens named after its creator Peter Barlow, is a removable lens that can be attached to the eyepiece of a telescope and improves magnification.
+
+Barnard’s Star is a red dwarf star that is six light years away from earth. It is also known as “Barnard’s Runaway Star”.
+
+Barred spiral galaxy is a spiral galaxy that has a centric bar-shaped configuration made-up of stars.
+
+Baryon is a proton, neutron, or any elementary particle that decays into a set of particles that includes a proton.
+
+Baseline is a line that serves as a basis for measurement, calculation, or location. A line between two points or telescopes of an interferometer.
+
+Big Bang is a theory offered by cosmologists related to the early development of the universe.
+
+Binary star is a star system composed of two stars that orbit a common center. The primary star is brightest; the secondary is referred to as the companion star.
+
+Binoculars are optical devices providing good depth effect for both eyes. This consists of two small telescopes fitted side by side.
+
+Black hole theoretically a massive object formed at the beginning of the universe or by a gravitational collapse of a star exploding as a supernova. The gravitational field is intense that no electromagnetic radiation can escape.
+
+Blazar is a compact quasar. An active galaxy with very active and highly variable radio, electromagnetic, and optical emissions.
+
+Blink comparator is used by astronomers, it is an optical instrument used to detect differences in two photographs of the same object by rapidly switching between the two, one picture at a time.
+
+Blueshift is a shift toward shorter wavelengths on the spectral lines of a celestial object. This is caused by the movement of the object toward the object.
+
+Bok globule is small interstellar clouds of very cold gas and dust that are thick. Because of the thickness, they are totally opaque to visible light; however, they can be studied using infrared and radio techniques.
+
+Bolide is a fireball. A large brilliant meteor that explodes.
+
+Bose-Einstein condensate also known as superatom. A phase of matter in which all bosons in a given physical system have been cooled to a temperature near absolute zero and enter the same quantum state.
+
+Brown dwarf is a cold and dark star too small to initiate nuclear reactions that generate heat and light.
+
+Buckyball is a natural occurring type of carbon recognized as C60. The molecular structure looks like the geodesic domes designed by Buckminster Fuller.
+
+Bulge The generally spherical and central region of a spiral galaxy.
+
+-C-
+
+Cannibal coronal mass ejections are fast moving solar eruptions that overtake and often absorb their slower moving kin.
+
+Carbon star is a cool, red giant having a spectrum with strong bands of carbon compounds.
+
+Carbonaceous chondrites are recognized as a group of chondritic meteorites composed of at least 7 recognized groups.
+
+Cassegrain telescope is a reflecting telescope in which the light, passing through a central opening in the primary mirror, is brought into focus a short distance behind it by a secondary mirror.
+
+Cataclysmic variable are stars that invariably increase in brightness and decrease to a nearly dormant state.
+
+Catadioptric telescope is a telescope that uses a combination of mirrors and lenses to increase the focal length of the telescope while allowing it to be folded into a more convenient and compact size.
+
+Charge-coupled device (CCD) is a silicon chip used to detect light. A more efficient device at collecting light than regular film.
+
+Celestial pole are two points in which the extended axis of the earth cuts the celestial sphere and about which the stars seem to revolve.
+
+Celestial sphere is an imaginary spherical shell formed by the sky represented as an infinite sphere. The observer’s position is the given center of the sphere.
+
+Cepheid variable is a variable star in which changes in brightness are due to alternate contractions and expansions in volume.
+
+Chandrasekhar limit: named after Indian astrophysicist Subrahmanyan Chandrasekhar, is the mass limit above which a star has too much mass to become a white dwarf after gravitational collapse.
+
+Charles Messier: French astronomer recognized for publishing the astronomical catalogue that consist of nebulae, star clusters that later become known as “103 Messier objects.”
+
+Chondrite is a stony meteorite containing chodrules. Unchanged meteorites due to melting.
+
+Chromosphere is a layer of the sun’s atmosphere. A gaseous envelope that surrounds the sun outside the photosphere from which large quantities of hydrogen and other gases erupt from.
+
+Circumpolar: Circumpolar stars are permanently above the horizon from a given observing point on Earth; that is to say, they never set. At Earth’s Geographical North Pole (90° north latitude), all stars in the sky are circumpolar. On Earth’s equator, no stars are circumpolar.
+
+Clock drive is a mechanism that causes an equatorial telescope to revolve about its polar axis so that it keeps the same star in its field of view.
+
+Coated optics are optical elements that have refracting and reflecting surfaces coated with one or more coatings of dielectric or metallic material.
+
+Collapsar is a gravitationally collapsed star.
+
+Collimation: Perfectly aligning a telescope’s optics.
+
+Coma: The shroud of gas surrounding a comet’s nucleus.
+
+Coma Berenices is a constellation in the northern sky near Boötes and Leo that contains a prominent cluster of galaxies and the north pole of the Milky Way.
+
+Comet is a celestial body moving about the sun consisting of a central mass surrounded by an envelope of dust and gas that may form a tail that streams away from the sun.
+
+Comet nucleus: The solid, central part of a comet, also known as a “dirty snowball.” It is made of rock, dust, and frozen gases.
+
+Conjunction: A moment when two or more objects appear close together in the sky.
+
+Constellation is any of various groups of stars to which definite names have been given, as Ursa Major, Ursa Minor, Boötes, Cancer, Orion.
+
+Convection: The transfer of heat by the circulation or movement of heated parts of a liquid or gas.
+
+Core: The central region of a planet, star, and galaxy.
+
+Corona: A faintly colored luminous ring appearing to surround a celestial body visible through a haze or thin cloud, especially such a ring around the moon or sun, caused by diffraction of light from suspended matter in the intervening medium.
+
+Coronagraph is an instrument for observing and photographing the sun’s corona, consisting of a telescope fitted with lenses, filters, and diaphragms that simulate an eclipse.
+
+Coronagraph mask is a circular shaped instrument designed to block light from a star’s disk. This allows the area close to the target to be studied.
+
+Coronal mass ejection (CME) is a large-scale solar event involving an ejection of hot plasma that may accelerate charged particles and travel as far as the Earth’s orbit, preceded by a shock front that may create a magnetic storm on Earth
+
+Cosmic microwave background: Microwave radiation that permeates the universe and represents the still cooling heat generated in the universe.
+
+Cosmic ray: A radiation of high penetrating power that originates in outer space and consists partly of high-energy atomic nuclei.
+
+Cosmological constant is a term introduced by Einstein into his field equations of general relativity to permit a stationary, nonexpanding universe: it has since been abandoned in most models of the universe
+
+Cosmology is a branch of astronomy that deals with the general structure and evolution of the universe.
+
+Cosmos: The world or universe seen as an orderly, harmonious system.
+
+Crescent: A lunar or planetary phase wherein less than half the surface is illuminated.
+
+Critical density: The density of a pure element or compound at a critical point. Density of the universe that provide enough gravity to bring the expansion to halt.
+
+Crust is the outermost geological thin layer of an asteroid, moon, or planet.
+
+Cryovolcanism is an icy volcano. When water and other liquids or vapor-phase volatiles, together with gas-driven solid fragments, onto the surface of a planet or moon due to internal heating.
+
+-D-
+
+Damocloid – An elliptical shaped asteroid with a comet-like orbit. It is rare and named after asteroid 5335 Damocles, the first of its kind discovered.
+
+Dark adaptation – The ability of the human eye to adjust seeing dim objects in the dark.
+
+Dark energy – Negative gravity that plays a role in the acceleration in the expansion of the universe.
+
+Dark matter – a term used to describe matter in the universe that cannot be seen, but can be detected by its gravitational effects on other bodies.
+
+Dark nebula – Dust grains that appear as clouds and is thick enough to shade light from stars in the background.
+
+Declination – Angular distance of an object in the sky, above or below the celestial equator.
+
+Deep-sky objects – Objects that are located beyond the solar system, usually consisting of galaxies, nebulae, stars, and star clusters.
+
+Degree angular Scale interferometer (DASI) – Used to measure temperature and polarization in the Cosmic Microwave background. This is located at NSF Amundsen-Scott South Pole station.
+
+Denison Olmsted – American physicist and astronomer born in Hartford, Connecticut. He is attributed for founding meteor science. He demonstrated that meteors are cosmic in origin and not an atmospheric phenomenon.
+
+Density – Amount of matter contained in a given volume. Usually measured in grams per cubic centimeter.
+
+Deuterium – An isotope of hydrogen with one proton and one neutron in the nucleus having an atomic weight of 2.014.
+
+Diffraction – Spreading out of light as it passes the edge of an obstacle.
+
+Dobsonian telescope – A telescope with a stable altazimuth mount that rotates easily.
+
+Doppler effect – The change in wavelength of sound or light emitted by an object in relation to an observer’s position. An object approaching the observer will have a shorter wavelength (blue) while an object moving away will have a longer (red) wavelength. The Doppler effect is used to estimate an object’s speed and direction.
+
+Double Star – Grouping of two stars. The grouping may look distinct, where the stars appear close together, or physical, such as a binary system.
+
+Double asteroid – Two asteroids that orbit around each other and linked by the gravity between them.
+
+Dust – Minute particles floating in space.
+
+Dwarf galaxy – Small galaxy that contain a few million stars, it is the most common kind of galaxy in the universe.
+
+
+Dwarf star – A Smaller star. Any star of average to low brightness, mass, and size.
+
+-E-
+
+Eccentric – Deviation from a circle, applied when describing the shape of an orbit.
+
+Eclipse – the total or partial blocking of one celestial body by another.
+
+Eclipsing binary – binary star with an orbital plane oriented so that one star passes in front of the other, thus completely or partially blocking the light from the other star during each orbital period.
+
+Ecliptic – the great circle formed by the intersection of the plane of the earth’s orbit with the celestial sphere; the apparent annual path of the sun in the heavens.
+
+Edwin Hubble – American astronomer who pioneered the understanding of the universe. He showed that other galaxies existed, specifically the Milky Way. Born in Marshfield, Missouri then later moved to Chicago at the age of 9. Young Edwin Hubble had always been fascinated with science. He attended Oxford University on a Rhodes scholarship and studied law. He later realized that his true passion was astronomy; in 1917 Hubble received his doctorate in astronomy from the University of Chicago.
+
+Ejecta – material from beneath the surface of a body such as a moon or planet that is ejected by an impact from a meteor and distributed on the surface. Ejecta usually appear lighter in color than the surrounding surface.
+
+Electromagnetic radiation – Radiation that travels through space at the speed of light, and increases the interplay of oscillating and magnetic fields. The radiation has a wavelength and frequency.
+
+Electromagnetic Spectrum – The range of all kinds of wavelengths of electromagnetic radiation. These include short to long wavelength gamma rays, x-rays, ultra-violet, optical, infrared and radio waves.
+
+Electron – Negatively charged elementary particle found outside, but is attached to, the nucleus of an atom.
+
+Electron Flux – Rate of flow of electrons through a reference surface.
+
+Electron volt – A unit of energy equal to the energy gained by an electron that falls through a potential difference of one volt.
+
+Element – Fundamental unit of matter consisting of fixed number of protons. Number of neutrons and electrons may vary.
+
+Ellipse – An oval shape. Johannes Kepler discovered the orbits of planets are elliptical in shape and not circular.
+
+Elliptical galaxy – A galaxy whose structure is shaped like an ellipse and is smooth and lacks complex structures such as spiral arms.
+Elongation – The angular separation of an object from the sun.
+
+Emission – Discharge of electromagnetic radiation from an object.
+
+Emission nebula – Cloud of hot gas being illumined from within by the radiation of energetic, young stars.
+
+Ephemeris – Table that identifies the positions of astronomical objects at certain intervals.
+
+Equatorial mount – a telescope mount in which one axis lies parallel to Earth’s rotational axis; the motion of the telescope about this axis compensates for Earth’s rotation.
+
+Equinox – Two points in which the sun crosses the celestial equator in its yearly path in the sky. Equinoxes signal the start of spring and autumn seasons that occur on or near March 21 and September 22, respectively.
+
+Escape velocity – Speed required for something or an object, to be free of the gravitational pull of a planet or other body.
+
+Evening star – Venus, when it appears in the evening sky.
+
+Event horizon – An invisible boundary around a black hole from which nothing can escape the gravitational pull, not even light.
+
+Exit pupil – Image of the objective lens or primary mirror of a telescope formed on the eye side of the eyepiece.
+
+Exobiologist – a person who studies the origin, development, and distribution of ‘living’ systems that may exist outside of Earth.
+
+Extragalactic – Beyond the Milky Way galaxy.
+
+Extrasolar – beyond the sun.
+
+Extraterrestrial – beyond earth.
+
+Eye relief – the distance between the eyeball and the lens nearest the eye of an eyepiece at which an observer can clearly see the entire field of view
+
+Eyepiece – a magnifying lens used to view the image produced by a telescope’s primary lens or mirror.
+
+-F-
+
+Far ultraviolet – Ultraviolet radiation with the shortest wavelengths.
+
+Field of view – The area of the sky visible through a telescope or binoculars.
+
+Filter – A device that transmits light of only certain wavelengths. Used by astronomers to observe view specific wavelengths and to minimize the light of exceptionally bright objects.
+
+Finder scope – a small, low-powered telescope attached to a larger telescope that helps the observer locate objects in the sky.
+
+Fireball – A very bright meteor.
+
+First quarter – Phase of the moon a quarter of the way around its orbit from new moon. Eastern portion is visibly bright during this phase.
+
+Flare – The sudden, violent outburst of energy from a star’s surface.
+
+Focus – Point at which rays of light passing through a lens meet.
+
+Focal length – Distance from a lens or mirror to the point it draws light to a focus.
+
+Focal ratio – The ratio of the focal length of a lens or mirror to its diameter.
+
+Focuser – the device on a telescope that holds an eyepiece and moves to allow an observer to bring light to a sharp focus.
+
+Fork mount – an equatorial mount in which the telescope swings in declination between the two prongs of a fork.
+
+Frequency – the number of wave crests or troughs that pass a particular point in a given interval of time (usually one second); usually expressed in hertz (cycles per second)
+
+Full moon – Phase of the moon when it is halfway around its orbit from new moon and opposite the sun in the sky; the full disk is illuminated.
+
+-G-
+
+Galactic disk – Disk of a spiral galaxy.
+
+Galactic nucleus – central region of a galaxy. Contains a high density of stars and gas and a super massive black hole.
+
+Galactic plane – Projection of the Milky Way’s disk on the sky.
+
+Galaxy – an enormous gravitationally bound assemblage of millions or billions of stars.
+
+Galaxy cluster – Gravitationally bound assemblage of dozens to thousands of galaxies.
+
+Galilean moons/satellites – Jupiter’s four largest moons: Io, Europa, Ganymede, and Callisto as discovered by Galileo in 1610.
+
+Gamma rays – the highest energy, shortest wavelength form of electromagnetic radiation.
+
+Gamma-ray burst – Short and intense burst of high energy radiation emanating from the distant universe.
+
+Gas giant – Planets made primarily of gas, these include Jupiter, Saturn, Uranus, and Neptune.
+
+General relativity – Theory of relativity governing accelerated motion that describes gravity as a curvature of space-time.
+
+German equatorial mount – Mount in which the declination axis sits on top of the polar axis, with the telescope on one end of the declination axis and a counterweight on the other.
+
+Giant molecular cloud – Interstellar clouds of cold gas and dust that contain tens or hundreds of thousands of solar masses.
+
+Gibbous – The phase of the moon between first quarter and last quarter, when the moon appears more than half illuminated.
+
+Globular cluster – A roughly spherical congregation of hundreds of thousands of stars; most globular clusters consist of old stars and exist in a galaxy’s halo.
+
+Granulation – A pattern of small cells that can be seen on the surface of the Sun. They are caused by the convective motions of the hot gases inside the Sun.
+
+Gravitational lens – A concentration of matter such as a galaxy or cluster of galaxies that bends light rays from a background object. Gravitational lensing results in duplicate images of distant objects.
+
+Gravity – the attractive force that all objects exert on one another; the greater an object’s mass, the stronger its gravitational pull.
+
+Gravity or Gravitational waves – Weak, wavelike disturbances which represent the radiation related to the gravitational force; produced when massive bodies are accelerated or otherwise disturbed.
+
+Greenhouse Effect – An increase in temperature caused when incoming solar radiation is passed but outgoing thermal radiation is blocked by the atmosphere. Carbon dioxide and water vapor are two of the major gases responsible for this effect.
+
+-H-
+
+Habitable zone – Zone around a star in which a planet can maintain liquid on its surface.
+
+Halo – Outer region of a galaxy, contains globular clusters, a few stray stars, and dark matter.
+
+Heliacal rising – the period of time when an object, such as a star, is briefly seen in the eastern sky before dawn and is no longer hidden from the glare of the sun.
+
+Heliopause – The point at which the solar wind meets the interstellar medium or solar wind from other stars.
+
+Heliosphere – a vast region around the sun dominated by the solar wind.
+
+Helium – Second lightest element, consists of two protons, two neutrons and two electrons. Eight percent of the atoms in the universe are helium.
+
+Hertz – A unit of frequency equal to one cycle per second.
+
+Hertzsprung-Russell diagram – a diagram that plots luminosity against temperature for a group of stars.
+
+HII region – an area filled with clouds of ionized hydrogen; the ionization is usually caused by radiation from newborn stars.
+
+Hubble law – the principle that a distant galaxy’s recessional velocity is proportional to its distance from Earth
+
+Hubble space telescope (HST) – The Hubble Space Telescope makes its observations from above Earth’s atmosphere. The telescope orbits 600 kilometers (375 miles) above Earth, working around the clock. It was originally designed in the 1970s and launched in 1990. The telescope is named for astronomer Edwin Hubble.
+
+Hydrazine – Colorless liquid which burns quickly and used as rocket and missile fuel.
+
+Hydrogen – the simplest and lightest element; usually consists of just a single proton and electron; about 90 percent of the atoms in the universe are hydrogen.
+
+Hypered film – Film that has been treated, usually with gas, to enhance its response to low light levels.
+
+Hypergalaxy – A system consisting of a spiral galaxy surrounded by several dwarf white galaxies, often ellipticals. Our galaxy and the Andromeda galaxy are examples of hypergalaxies.
+
+-I-
+
+Igneous rock – Rock formed by the solidification of magma.
+
+Inclination – Angle between a planet’s orbit and the ecliptic place; Angle between a satellite’s orbit and its host planet’s rotational plane.
+
+Inferior conjunction – The configuration of an inferior planet when it lies between the sun and Earth.
+
+Inferior planet – A planet that orbits the sun inside earth’s orbit, these would be Mercury and Venus.
+
+Inflation – a brief and extraordinarily rapid period of expansion a fraction of a second after the Big Bang.
+
+Infrared – a form of light with slightly lower energy than visible light but with greater energy than radio waves.
+
+Interacting galaxies – galaxies caught in each other’s gravitational embrace, often results in galactic mergers or extreme star formation.
+
+Interference or interferometric fringes – a wave-like pattern resulting from the successful combination of two beams of light which amplifies the light.
+
+Interferometer – A system of two or more widely separated telescopes that achieves the resolving power of a much larger telescope.
+
+Interferometry – The technique of using two or more widely separated telescopes to achieve the resolving power of a much larger telescope.
+
+Intergalactic – Space between the galaxies.
+
+International Space Station – A global cooperative program between the United States, Russia, Canada, Japan, and Europe, for the joint development, operation, and utilization of a permanently habitat in space close to low-Earth orbit.
+
+Interplanetary – Space between the planets.
+
+Interstellar – Space between the stars of a galaxy.
+
+Interstellar medium – Gas and dust located between the stars.
+
+Ion – an electrically charged atom due to the loss or gain of one or more electrons.
+
+Ionization – Process an atom gains or loses electrons.
+
+Ionized gas – Gas heated to a state where it contains ions and free-floating electrons. Also referred to as plasma.
+
+Ionosphere – An atmospheric layer with a high concentration of ions and free electrons.
+
+Irregular galaxy – Galaxy without a clearly defined spiral or elliptical shape.
+
+Isotope – Forms of an element wherein all atoms have the same number of protons but different numbers of neutrons.
+
+-J-
+
+Jet – a narrow stream of gas or particles ejected from an accretion disk surrounding a star or black hole.
+
+JPL (Jet Propulsion Laboratory) – The lead U.S. center for robotic exploration of the solar system located in Pasadena, California; JPL spacecraft have visited recognized planets with the exception of Pluto.
+
+Jet stream – a high-speed, wandering wind current in the upper troposphere that blows from west to east and affects weather
+
+Jovian planet – A planet with the same attributes of Jupiter (gas giant).
+
+-K-
+
+Kelvin – a unit of temperature equal to one degree on the Celsius scale and 1.8 degrees on the Fahrenheit scale; also the absolute temperature scale defined so that 0 kelvin is absolute zero.
+
+Kuiper Belt – a region in the outer solar system beyond Neptune’s orbit that contains billions of small, icy bodies; Pluto is the largest known Kuiper Belt Object.
+
+-L-
+
+L chondrite – a chondrite (a stony meteorite containing small, round, silicate granules called chondrules) that has a low amount of iron.
+
+Lagrange point – One of five locations in space relative to two bodies where less massive body can maintain a stable orbit around a common center of mass.
+
+Large magellanic cloud – Irregular galaxy that orbits the Milky Way Galaxy.
+
+Last quarter – Phase of the moon three quarters of the way around its orbit from the new moon, the western side is lit.
+
+Latitude – the angular distance north or south from the equator to a point on Earth’s surface, measured on the meridian of the point.
+
+Lens – Curved piece of glass that brings light to a focus.
+
+Lenticular galaxy – a galaxy possessing a large bulge and small disk.
+
+Libration – the small oscillations in the moon’s motion that allow Earth-based observers to see slightly more than half the moon’s surface.
+
+Light pollution – Light, typically from artificial sources, that reaches the night sky, obscuring the view of faint astronomical objects.
+
+Light-gathering power – the ability of a telescope to collect light; the larger a telescope’s aperture, the greater its light-gathering power.
+
+Light-year – the distance light travels in one year, equivalent to approximately 5.9 trillion miles (9.5 trillion km).
+
+Limb – Edge of a celestial object.
+
+Limiting magnitude – the apparent magnitude of the faintest objects that can be seen given the local observing conditions and any telescope, film, or other detector you may be using.
+
+LINER galaxy – A low-ionization nuclear emission-line region galaxy belongs to a common class of otherwise normal galaxies that display low-ionization line emissions near their central regions.
+
+Local Group – the galaxy cluster containing 35 galaxies to which the Milky Way Galaxy belongs.
+
+Local supercluster – the galaxy supercluster to which the Local Group belongs; it spreads over 100 million light-years and boasts the Virgo Cluster as its dominant member.
+
+Long-period comet – Comets that have orbital periods greater than 200 years.
+
+Longitude – the angular distance of a particular place on Earth as measured east or west from the prime meridian running through Greenwich, England.
+
+Luminosity – the total amount of light that an object radiates.
+
+Lunar eclipse – a phenomenon caused by the Earth passing between the sun and moon.
+
+Lunar month – the period of one complete revolution of the moon around Earth, 29.5 days.
+
+Lunation – the time between two successive new moons; approximately 29.5 days.
+
+-M-
+
+Magnetograph – A recording magnetometer used for recording variations in the earth’s magnetic field.
+
+Magnetometer – An instrument that measures the intensity of earth’s magnetic field.
+
+Magnetopause – The boundary space between the earth’s magnetosphere and interplanetary space (40,000 miles / 65,000 km) above the earth, marked by an abrupt decrease in the earth’s magnetic induction.
+
+Magnetosphere – The dynamic region around a planet where the magnetic field traps and controls the movement of charged particles from the solar wind.
+
+Magnitude – The measurement of an object’s brightness; the lower the number, the brighter the object.
+
+Main sequence – The band of stars on a Hertzsprung-Russell diagram stretching from the upper left to the lower right; stars spend most of their lives in the main sequence phase, in which they are fusing hydrogen into helium in their cores.
+
+Maksutov telescope – A catadioptric telescope that uses a deeply curved meniscus lens as the correcting plate. (See Catadrioptric Telescope)
+
+Mantle – The portion of a planet’s interior above the core but below the crust.
+
+Mare – Dark and smooth area on the surface of the moon or on a planet.
+
+Mass – A measure of the total amount of matter within an object.
+
+Mass loss – The loss of mass by a star during its evolution; some of the causes of mass loss include stellar winds, bipolar outflows, and the ejection of material in a planetary nebula or supernova.
+
+Megaparsec – One million parsecs, equivalent to 3.26 million light-years.
+
+Meridian – Imaginary circle on the celestial sphere that connects the zenith to the north, or south, celestial pole.
+
+Messier Catalog – A catalog of 107 bright deep-sky objects that belong to a catalog compiled by French astronomer Charles Messier in the 1700s.
+
+Meteor – A flash of light that occurs when a meteoroid burns up in earth’s atmosphere, also known as shooting star.
+
+Meteor showers – Period of meteor activity that occurs when Earth collides with many meteoroids; an individual shower happens at the same time each year and has all its meteors appearing to radiate from a common point.
+
+Meteor storm – Rare events that occur when Earth encounters dense regions within a meteor stream. Such encounters can increase normal meteor rates by more than 1,000 meteors per minute.
+
+Meteorite – Rock from space that survives as it passes through the earth’s atmosphere and falls to the ground.
+
+Meteoroid – Small rock that orbits the sun.
+
+Microgravity – A condition the force of gravity is very low, producing a near-weightless environment.
+
+Microlensing – Effect of gravity from a small astronomical body focusing light rays, similar to lenses.
+
+Micron – One millionth of a meter.
+
+Microwaves – Most energetic form of radio waves.
+
+Milky Way – Spiral galaxy containing our solar system. It can be observed by the naked eye as a faint luminous band stretching across the heavens, containing approximately a trillion stars, most of which are too distant to be seen individually.
+
+Millisecond pulsar – Neutron star rotates hundreds of times per second, which typically accretes matter from a stellar companion.
+
+Minor planet – Rocky body that orbits the sun; also recognized as an asteroid.
+
+Mirror – Piece of glass coated with a highly reflective material.
+
+Molecule – Combination of two or more atoms that represent the smallest part of a compound that has the chemical properties of that compound.
+
+Moon – Smaller body orbiting a larger body; often refers to earth’s moon.
+
+Morning star – Venus, when it appears in the morning sky.
+
+Multicultural astronomy – the variety of ways cultures of the past and present have observed, recorded, interpreted, and made use of astronomy to structure their lives, and in some cases satisfy their curiosity about the universe.
+
+Multiple star system – Gravity bound system in which two or more stars orbit a common center of mass.
+
+MUSES-C – The MUSES-C Mission will investigate an asteroid known as an Earth-approaching type. Through this mission, the Institute of Space and Astronautical Science (ISAS) in Japan intends to establish the technology to bring back samples of an asteroid’s surface to Earth.
+
+MUSES stands for a series of missions performed launched by the MU rocket and C means the third mission of this series.
+
+-N-
+
+Naked eye – something visible without the aid of binoculars or a telescope.
+
+Near-infrared – light from the part of the infrared band of the electromagnetic spectrum closest to the visible range.
+
+Nebula – a cloud of interstellar gas and dust; some nebulae represent stellar nurseries, others represent stellar graveyards.
+
+Neutrino – a subatomic particle produced in nuclear reactions and in supernovae that very rarely interacts with matter; neutrinos have no electrical charge and travel at or very close to the speed of light.
+
+Neutron – a subatomic particle with no electric charge that resides in an atomic nucleus; it has about the same mass as a proton.
+
+Neutron star – the collapsed, extraordinarily dense, city-sized remnant of a high-mass star.
+
+New moon – the phase in which the moon is in the same direction as the sun in Earth’s sky, so it is unilluminated and invisible.
+
+Newtonian telescope – a reflecting telescope in which a flat secondary mirror (called the diagonal) in the center of the tube reflects light to a focus outside the tube.
+
+NGC – New General Catalogue, a 19th-century compendium of deep-sky objects such as galaxies, globular clusters, and nebulae.
+
+NGC Objects – deep-sky objects such as galaxies, globular clusters, and nebulae included in the New General Catalogue.
+
+North Celestial Pole – the point in the sky to which Earth’s Geographical North Pole points.
+
+Nova – An explosion on the surface of a white dwarf that is accreting matter from a companion star, which causes the system to temporarily brighten by a factor of several hundred to several thousand.
+
+Nuclear fusion – The process by which two atomic nuclei combine to form a heavier atomic nucleus; this is the energy source that causes most stars to shine.
+
+Nucleosynthesis – the creation of heavy elements from lighter ones by nuclear fusion.
+
+Nucleus – the central region of an atom, comet, or galaxy.
+
+-O-
+
+O-type star – A hot, massive blue star that emits strongly at ultraviolet wavelengths and has a surface temperature of roughly between 28,000 to 40,000 Kelvin’s.
+
+OB Association – Loose grouping of O and B stars, which are the most luminous, most massive, and shortest-lived stars.
+
+Objective – Telescopes primary lens or mirror that gathers light and brings it to a focus.
+
+Obliquity – the angle between the plane of the earth’s orbit and that of the earth’s equator, equal to 23°27′; the inclination of the earth’s equator.
+
+Occultation – The passage of one object in front of a smaller one, temporarily obscuring all or part of the background object from view.
+
+Omega – 1. The ratio of the density of the universe to the critical density 2. The 24th letter of the Greek alphabet.
+
+Omega centauri – Massive globular cluster in the southern constellation Centaurus located about 17,000 light-years from Earth; also known as NGC 5139.
+
+Omega nebula – Also known as the Swan Nebula, M17, NGC 6618, the Horseshoe Nebula, and the Lobster Nebula. One of the Milky Way’s numerous stellar nurseries; the Omega Nebula is about 5,000 light-years from Earth and can be seen in the constellation of Sagittarius the Archer.
+
+Oort cloud – Cloud of cometary nuclei that surrounds the sun at a distance of many thousands of astronomical units.
+
+Open cluster – System containing a few dozen to a few thousand stars that formed from the same stellar nursery.
+
+Opposition – Best time to observe a planet. The moment a planet far from the sun than Earth appears opposite the sun in the sky.
+
+Optical double – Two stars at different distances that lie along nearly the same line of sight and thus appear close together.
+
+Optics – Study of light and its properties; Lenses or mirrors.
+
+Orbit – Curved path, usually elliptical in shape, an object follows around a bigger object or a common center of mass.
+
+Orbital period – The length of time it takes one body to orbit another.
+
+Outgassing – Release of gas from rocky body.
+
+-P-
+
+PAHs – Polycyclic aromatic hydrocarbons (PAHs). A class of stable organic molecules. Flat molecules made of carbon and hydrogen atoms. These are common and highly carcinogenic. It is one of the by-products of combustion from automobiles and airplanes.
+
+Parallax – Shift of a nearby object against a fixed background due to the movement of the observer. Astronomers observe the parallax of stars to measure the distances of these same stars.
+
+Parsec – Distance an object would have to be from earth so that its parallax when seen from two points separated by 1 AU is equivalent to one arcsecond, equivalent to 3.26 light years.
+
+Patera – A shallow crater with a scalloped and complex edge; saucer shaped volcanic structure.
+
+Penumbra – Outer filament region of a sunspot. Lighter region of a sunspot surrounding the umbra (dark center).
+
+Penumbral eclipse – When the moon passes into the outer ring of earth’s shadow, causing a slight shading in the moon’s appearance.
+
+Periastron – Location in an objects orbit where it is closest to the star it orbits.
+
+Perigree – Position of a satellite’s orbit when it is closest to earth.
+
+Perihelion – Position of an object, or body, when it is closest to the sun.
+
+Period – Measured interval a regular event takes place.
+
+Periodic comet – Comet that has been observed to circle, orbit, the sun more than once.
+
+Phase – Cycle of changes in the appearance of a moon or a planet.
+
+Photometer – An instrument that measures light emitted by an object.
+
+Photometry – Degree and measurement of light intensities.
+
+Photons – Single waves of light.
+
+Photosphere – Visible surface of the sun.
+
+Photovoltaic – When light energy or emissions are converted into electricity.
+
+Pixel – Short name for “picture element.” Individual light detectors on a CCD chip.
+
+Planck scale – A unit of measurement scientists utilize to describe the universe. One unit (length) of Planck is 10^-33 centimeters.
+
+Planet – A gaseous, rocky body that orbits a star.
+
+Planetary nebula – Gas ejected by dying, low mass stars that appear as glowing shells.
+
+Planetesimals – Asteroid sized bodies in a new planetary system that collide and form larger bodies.
+
+Planisphere – Map of the sky in two-dimensions with an adjustable overlay and shows a part of the sky that is visible anytime of the night or year.
+
+Plasma – Gas heated to a state wherein it contains ions and free floating electrons.
+
+Plasmasphere – Area of cold and high density plasma above the ionosphere.
+
+Plate tectonics – Theory describing the possibility on how earth’s crust is broken into plates, suggesting that those plates move thru and across earth’s surface.
+
+Polar cap – Icy region of a planet, specifically the north and south pole.
+
+Polarization – When the direction of electric or magnetic fields in an electromagnetic wave changes in a regular pattern.
+
+Position angle – Direction in the heavens one celestial object from another, measured eastward from due north.
+
+Power – Capability of a telescope or binoculars to increase the size of an object that is far away.
+
+Poynting-Robertson effect – Interplanetary particles that are dragged and is caused by its interaction with solar radiation. This causes particles to lose momentum in their orbit and is drawn towards the sun.
+
+Precession – Periodic change in the direction of an objects axis caused by the gravitational influence from another body.
+
+Primary lens – Main lens of a telescope that gathers light bringing the object into focus.
+
+Primary mirror – Main mirror of a telescope that gathers and reflects light to bring the object in focus.
+
+Prime meridian – The line of longitude that runs through Greenwich, England.
+
+Prism – A piece of glass that breaks white light into it’s basic colors, it is wedge shaped.
+
+Prograde – Same direction a planet rotates. An object that move, or looks like it moves in the same direction of solar system bodies or moons.
+
+Prominence – A massive eruption of gas streaming off the surface of the sun towards the corona.
+
+Proper motion – Annual movement of a star across the sky.
+
+Proton – Subatomic particle that is found in an atom’s nucleus and possesses a positive electric charge.
+
+Protoplanet – Gas, dust, and rocks that gradually becomes a whole planet.
+
+Protoplanetary disk – Disk of gas and dust surrounding a new planet; planets that form through the collision of particles inside the disk.
+
+Protostar – Cloud of hot, dense gas and dust that gravitationally collapses to form a star.
+
+Proxima Centauri – Nearest star to the sun at 4.2 light years away.
+
+Pulsar – A rotating neutron star that showers earth with regular pulses of electromagnetic radiation.
+
+-Q-
+
+Quadrillion – a number represented in the U.S. with a 1 followed by 15 zeros, in the U.K., 1 followed by 24 zeros.
+
+Quantum mechanics – Law in physics describing the behavior of matter at the atomic and subatomic level.
+
+Quasar – Highly energetic core in a young galaxy believed to be powered by a big black hole; Short for quasi-stellar object.
+
+-R-
+
+Radial velocity – Acceleration of an object going away from or headed towards an observer.
+
+Radiant – Location in the sky where meteors belonging to a meteor shower appear to come from. 2. Very bright and shining.
+
+Radiation – Electromagnetic waves as it relates to astronomy.
+
+Radiation pressure – Amount of pressure applied on a surface by electromagnetic radiation or light.
+
+Radio galaxy – Galaxy that emanates a large amount of radio waves.
+
+Radio telescope – Designed to observe radio waves coming from space.
+
+Radio waves – Type of light with the longest wavelength with the least energy.
+
+Radiometer – Instrument to measure total energy or power from an object in the form of radiation, especially infrared radiation.
+
+Red dwarf – Smaller star with a low mass, cooler, and less luminous than the sun.
+
+Red giant – Cool star nearing the end of its cycle. These have expanded up a hundred times the diameter of the sun.
+
+Red supergiant – Cool star nearing the end of its cycle. These have expanded from a hundred to a thousand times the diameter of the sun.
+
+Redshift – Multiplication of wavelength of light coming from an object due to its motion away from earth; expansion of the universe; strong gravitational field.
+
+Reflection nebula – Gas and dust clouds made visible due to the dust reflection from the light of nearby star.
+
+Reflector – Telescope using curved mirrors to gather light.
+
+Refractor – Telescope using a glass lens to gather light.
+
+Regolith – Soil from the moon produced meteorites hitting the surface.
+
+Relativity – Theory in physics developed by Albert Eistein. Describes measurement made by two observers who are in relative motion.
+
+Resolution (Resolving power) – A camera or a telescopes ability to capture fine details of a subject.
+
+Reticle – Using two fine wires as part of a grid attached to part of the focal plane or a telescope eyepiece. This is used to locate the position and size of a celestial object.
+
+Retrograde – Viewing objects that move or appear be moving in the opposite direction of a solar system bodies.
+
+Reusable launch vehicle (RLV) – A spacecraft that may be reused on successive missions. A single stage to orbit spacecraft.
+
+Revolution – Orbital motion of a body around a common center of mass or another body.
+
+Ribonucleic acid – Nucleic acid containing genetic information.
+
+Rich clusters – Galaxy clusters with high population densities.
+
+Rich-field telescope – Designed to show a larger field of view at low magnification.
+
+Right ascension – Angular Distance of a celestial object located east of the vernal equinox; outer space sphere equivalent to longitude.
+
+Rotation – Spin of an asteroid, planet, star, moon, or galaxy on its central axis.
+
+Rotation period – Measurable interval an asteroid, planet, star, moon, or galaxy completes one rotation.
+
+-S-
+
+Satellite – Small body or object that goes (orbit) around a planet or asteroid.
+
+Scarp – Cliffs created by erosion and fault movement.
+
+Schmidt camera – Catadioptric telescope used as a camera to photograph wide-angle pictures of the sky.
+
+Schmidt-Cassegrain telescope – Small telescope wherein light passes through a correcting lens located at the front of the telescope; it then reflects off a primary mirror back to a secondary mirror, which then directs the light through a hole in the primary and out the back of the scope; this is a popular telescope for backyard observers.
+
+Secondary mirror – A small mirror used in a telescope that redirects light gathered by a primary mirror.
+
+Seeing – State of observing phenomena created by earth’s atmosphere that blurs images of astronomical objects.
+
+Semimajor axis – Average distance an orbiting body has from its main body.
+
+SETI – “search for extra-terrestrial intelligence”
+
+Seyfert galaxy – Galaxy with a bright nucleus coupled with spectral emission lines, first discovered by Carl Seyfert in 1943.
+
+Shock wave – Powerful wave emanating from a sudden change in density, temperature, or pressure traveling through a medium faster than sound travels on that same medium.
+
+Short-period comet – A comet that orbits less than 200 years.
+
+Sidereal – Relating to or measured in association with the stars.
+
+Sidereal year – Amount of time a body revolves around another with respect to the stars.
+
+Siderostat – A movable flat mirror that reflects light from a celestial object to a given location.
+
+Singularity – An area wherein space and time are infinitely distorted.
+
+Small Magellanic Cloud – An irregular and small galaxy orbiting the Milky Way galaxy.
+
+Solar eclipse – When the moon passes between the earth and the sun.
+
+Solar filter – A safety precaution, a filter used to block almost all the suns light when being viewed.
+
+Solar irradiance – Radiant energy given by the sun over all wavelengths that falls each moment on one square meter of earth’s atmosphere.
+
+Solar mass – Amount of mass contained in the sun, equivalent to 330,000 times to that of earth.
+
+Solar system – System that includes the sun and the smaller bodies (planets, moons, etc…) that orbit the sun.
+
+Solar wind – Stream of charged minute particles coming from the sun.
+
+Solstice – Two points on the celestial sphere wherein the sun is farthest north or south of the equator.
+
+South Celestial Pole – Point in the sky earth’s South Pole points.
+
+Space weathering – Process of changing the surface of an object in space by impacts from small meteors, cosmic rays, and even the solar wind.
+
+Space-time – When the three dimensions of space come together with one dimension of time wherein the events can be exactly calculated.
+
+Special relativity – Theory of relativity applied concerning uniform motion. It proposes that the equivalence of mass and energy and differs from Newtonian physics only when speeds approach that of light.
+
+Spectra – Plural of spectrum. Radiant source energy.
+
+Spectral class – Classification of stars based on its spectrum as dictated by the surface temperature.
+
+Spectral line – Specific wavelength of light that corresponds to the energy exchange of an atom or molecule.
+
+Spectrograph/Spectrometer – Instrument coupled to a telescope that records the spectrum of an astronomical object.
+
+Spectroheliograph – Instrument to photograph the sun on a single wavelength of light.
+
+Spectroscope – An apparatus to explore spectra.
+
+Spectroscopy – In astronomy, it is the study of astronomical subjects.
+
+Spectrum – 1. Whole range of electromagnetic radiation, also known as light. 2. Energy created from a radiant source.
+
+Speed of light – Light travels through a vacuum at 186,000 miles per second, or 300,000 km per second. Distance light travels in a unit of time through a specific substance.
+
+Spicules – Supersonic jet about 300 miles(500 km) in diameter found in the chromosphere of the Sun.
+
+Spiral arm – Concentration of young stars, gas and dust that are finds its way out of the nucleus of a spiral galaxy.
+
+Spiral galaxy – Spiral shaped system composed of stars, gas clouds, and dust, numbering in the billions.
+
+Standard candle – In astronomy, refers to an object known for its brightness and is sometimes used to determine distances.
+
+Star – Sphere of hot gas held together by gravity and emanates brightness by itself; common stars utilize nuclear fusion from its core to generate energy.
+
+Star atlas – Collection of maps using a coordinate system to mark positions of astronomical objects, stars, galaxies, and nebula.
+
+Star hopping – Techniques using familiar patterns of stars to hop from one part of the sky to another; this is done through the use of a telescope and the naked eye.
+
+Star party – Gathering of friends and other like-minded people to observe the night sky.
+
+Starburst galaxy – Galaxy going through a high rate of star formation.
+
+Stellar evolution – Process, that include changes a star goes through during its existence.
+
+Stellar wind – Torrent of charged atomic particles emanating from stars. Release of gas from a star’s surface.
+
+Sterocomparator – Device that allows astronomers to view two separate images of the same region in the sky at the same time.
+
+Stone Meteorite – Meteorite resembling a terrestrial rock made of similar materials.
+
+Sublimate – Transition of solid substance that is evaporated into a gas without reaching the liquid phase.
+
+Summer – Season in the northern hemisphere that commences around June 21.
+
+Sunspot – Dark, temporary cool spot found on the surface of the sun.
+
+Sunspot cycle – Cycle that averages eleven years at which the number of sunspots decreases and increases.
+
+Supercluster – Huge congregation of galaxy clusters that span hundreds and millions of light years away.
+
+Superfluid – State of matter exhibiting frictionless flow. Liquid helium is the one element that produces this when cooled to absolute zero.
+
+Superior conjunction – Constitution of an inferior planet when it lies on the far side of the sun.
+
+Superior planet – Planets that are farther from the sun than earth: Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto.
+
+Superluminal motion – Movement that looks to be faster than the speed of light.
+
+Supermassive black hole – Black hole located at the center of a galaxy containing millions or billions of solar masses.
+
+Supernova – Destructive explosion of a star.
+
+Supernova remnant – Growing cloud of gas that is the outer layers of star that just exploded.
+
+Synchronous rotation – Identical rate of rotation of a satellite or moon to the main and bigger object it orbits.
+
+Synchrotron emission – Electromagnetic field from high-energy electrons that are moving in a given magnetic field.
+
+Synodic Period – Interval between points of opposition in a superior planet.
+
+-T-
+
+Telescope – Instrument used to brighten and magnify the view of astronomical objects.
+
+Tera (trillion) – American use, one followed by 12 zeros
+
+Terminator – Boundary of a planet or moon separating the lighted from the unlighted sides.
+
+Terrestrial – Related to the earth.
+
+Terrestrial planet – Small and rocky planet which includes Mercury, Venus, Earth, and Venus.
+
+Thermal radiation – Electromagnetic radiation coming from an object that is not at absolute zero.
+
+Tidal force – disparity in gravitational force between two points on an object caused by the gravity of another object; this leads to a deformation of an object.
+
+Tides – Distortion of a body caused by the gravitational influence on another body.
+
+Trans-Neptunion Object – Object in our solar system lying beyond the orbit of Neptune.
+
+Transit – Passage of a smaller body in front of a larger body. Passage of a celestial body across an observer’s meridian.
+
+Transparency – Clarity of the sky.
+
+Trapezium – Open cluster of young stars, protostars, gas, and dust in the Orion Nebula that feature four stars forming a the trapezium.
+
+Tremolite – Common mineral in metamorphic rocks, made up mainly of calcium and magnesium.
+
+Trojan – Asteroid lying in or near the Lagrange points 60 degrees for or aft Jupiter along the planet’s orbit.
+
+Tropical year – Time earth revolves around the sun in relation to the vernal equinox.
+
+True field of view – Angle of sky viewed through an eyepiece attached to a telescope.
+
+Type la supernova – the explosion of a white dwarf that occurs when it accretes enough mass from a companion star to go above the Chandrasekhar limit.
+
+Type II quasars – a quasar enshrouded in gas and dust that emits very little visible light, however, is easily seen in the infrared and x-ray region of the electromagnetic spectrum
+
+Type II supernova – the explosion of a massive star that occurs when its core runs out of nuclear fuel; these explosions leave behind a neutron star or a black hole
+
+-U-
+
+Ultraviolet light or radiation – Radiation with a higher amount of energy than visible light, not as much as x-rays.
+
+Umbra – Perfect and whole shadow of an opaque body, like a planet, wherein direct light from the source of brightness is totally reduced. 2) Area of complete darkness on the shadow made by an eclipse.
+
+UIB – unidentified infrared bands – Unknown objects in space that produce unidentifiable infrared emission patterns.
+
+Universal time – Also recognized as Greenwich Mean Time, forming the basis in all civil time keeping. Local time centered in Greenwich, England.
+
+Universe – All that exists
+
+UT – short for Universal time
+
+UV (ultraviolet) – short for Ultra Violet.
+
+-V-
+
+Van Allen Belts – Dual belts of charged particles from a solar wind trapped in earth’s magnetic field above the atmosphere. Radiation zone of charged particles surrounding Earth. Shape of Van Allen belts is determined by Earth’s magnetic field.
+
+Variable star – Star with varying luminosity.
+
+Vernal equinox – Time of the year when the sun moves across the celestial equator towards the north, usually around March 21.
+
+Vignetting – Decreased illumination over an image plane in a camera or in some cases a telescope, this causes a distortion close to the edge of an image.
+
+Virgo Cluster – 2,500 known galaxies near the north galactic pole of the constellation Virgo that is 60 million light years from earth.
+
+Visible light – Wavelengths in the electromagnetic spectrum that the human eye can see.
+
+Voids – Big regions of empty space found amidst galaxy clusters and superclusters.
+
+Volatiles – Chemical compounds that become gaseous at very low temperatures.
+
+-W-
+
+Waning/Waxing – Interval between full and new moon
+
+Wavelength – Distance between two wave crests.
+
+Weight – Force applied on an object because of gravity.
+
+White dwarf – Dense remains of an intermediate mass star like the sun that has collapsed and is the same size as earth.
+
+Winter – Season in the Northern Hemisphere that begins December 21.
+
+Wolf-Rayet star – Luminous and hot star having temperatures reaching 90,000 kelvins.
+
+-X-
+
+X-rays – Type of electromagnetic radiation that is like light but has a shorter wavelength capable of penetrating solid objects and ionizing gases.
+
+X-class flares – Most energetic kind of solar flares and the brightest.
+
+X ray star – Bright object emitting x rays as a primary component of its radiation.
+
+-Y-
+
+Yellow dwarf – Ordinary star, like the sun and is at its stable point in its transformation.
+
+-Z-
+
+Zenith – Point on the celestial sphere directly above an observer.
+
+Zenith hourly rate – Meteorites expected to be viewed per hour during a meteor shower, where the meteor showers radiance is at an observer’s zenith.
+
+Zodiac – Imaginary belt across the sky wherein the solar system can always be found.
+
+Zodiacal light – Cone of light that can be observed above the horizon before sunrise or after sunset. This is caused by small particles of reflected sunlight.
